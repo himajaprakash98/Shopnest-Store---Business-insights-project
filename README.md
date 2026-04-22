@@ -1,4 +1,4 @@
-# My-first-project
+# Shopnest Store - business insights project
 My first ever project on github!
 ### This report aims to analyze through an interactive dashboard, the following key issues of Shotpnest Store, a leading department store in the E-commerce market places in Portugal which serves as a seamless link connecting small businesses from various regions in Portugal to channels, streamlining the process with a single point of contact. It’s a ‘network’ like business structure which operates with various logistic partners, procurement partners, manufacturing partners, website partners, payment gateway partners, etc,.
           
